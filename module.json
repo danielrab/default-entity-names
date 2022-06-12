@@ -1,0 +1,29 @@
+{
+  "name": "default-entity-names",
+  "title": "Default Entity Names",
+  "description": "Makes Foundry create an entity with a default name if no name was provided",
+  "version": "1.0.0",
+  "library": "false",
+  "manifestPlusVersion": "1.0.0",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "9",
+  "authors": [
+    {
+      "name": "danielrab",
+      "url": "https://github.com/danielrab",
+      "discord": "danielrab#7070"
+    }
+  ],
+  "dependencies": [
+
+  ],
+  "conflicts": [
+
+  ],
+  "esmodules": [
+    "/scripts/module.js"
+  ],
+  "url": "This is auto replaced",
+  "manifest": "This is auto replaced",
+  "download": "This is auto replaced"
+}
