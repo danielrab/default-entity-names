@@ -23,7 +23,7 @@
   "esmodules": [
     "/scripts/module.js"
   ],
-  "url": "This is auto replaced",
-  "manifest": "This is auto replaced",
-  "download": "This is auto replaced"
+  "url": "https://github.com/danielrab/default-entity-names",
+  "manifest": "https://raw.githubusercontent.com/danielrab/default-entity-names/master/module.json",
+  "download": "https://github.com/danielrab/default-entity-names/archive/refs/heads/master.zip"
 }
